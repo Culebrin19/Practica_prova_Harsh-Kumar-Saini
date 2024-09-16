@@ -26,3 +26,17 @@
     color: black;
     padding: 14px;
 }
+
+ol{
+  width: 10%;
+}
+
+li{
+  border: 3px solid black;
+  margin-top: 5px;
+  margin-bottom: 3px;
+}
+
+body{
+  background-color: bisque;
+}
