@@ -80,4 +80,26 @@ body{
   background-color: bisque;
 }
 
+#firstline{
+  border: 3px red solid;
+}
+
+#firstline-left{
+  border-right: 3px black solid;
+  margin-right: 50rem;
+  line-height: 7rem;
+  text-align: left;
+  background-color: orange;
+}
+
+#firstline-right{
+  text-align: right;
+  background-color: cadetblue;
+  border-left: 3px solid black;
+  margin-left: 45.4rem;
+  line-height: 7rem;
+}
+
+
+
 
