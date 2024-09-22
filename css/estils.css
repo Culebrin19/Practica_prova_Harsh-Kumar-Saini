@@ -84,21 +84,41 @@ body{
   border: 3px red solid;
 }
 
+
+
+#firstline {
+  display: flex;
+}
+
 #firstline-left{
-  border-right: 3px black solid;
-  margin-right: 50rem;
-  line-height: 7rem;
-  text-align: left;
-  background-color: orange;
+  width: 50%;
+  background-color: blueviolet;
 }
 
 #firstline-right{
-  text-align: right;
-  background-color: cadetblue;
-  border-left: 3px solid black;
-  margin-left: 45.4rem;
-  line-height: 7rem;
+  width: 50%;
+  background-color: pink;
 }
+
+
+
+#container {
+  display: flex;
+}
+
+#left{
+  width: 33.33%;
+  background-color: blueviolet;
+}
+#center{
+  width: 33.33%;
+  background-color: pink;
+}
+#right{
+  width: 33.33%;
+  background-color: orange;
+}
+
 
 
 
