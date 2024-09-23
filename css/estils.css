@@ -108,17 +108,21 @@ body{
 
 #left{
   width: 33.33%;
-  background-color: yellow;
+  background-color: rgb(38, 255, 0);
 }
 #center{
   width: 33.33%;
-  background-color: pink;
+  background-color: rgb(54, 13, 158);
 }
 #right{
   width: 33.33%;
   background-color: orange;
 }
 
+footer{
+  border-top: 3px solid black;
+  margin-top: 28%;
+}
 
 
 
