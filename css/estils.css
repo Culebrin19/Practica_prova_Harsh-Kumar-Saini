@@ -56,8 +56,8 @@ li{
 }
 
 img{
-  width: 600px;
-  height: 700px;
+  width: 400px;
+  height: 400px;
   padding-top: 10rem;
 }
 
@@ -73,7 +73,13 @@ table.idiomes{
 
 .dades{
  margin-left: 50%;
- margin-top: -40%;
+ margin-top: -35%;
+}
+
+#udl{
+  width: 300px;
+  height: 200px;
+  margin-top: -10rem;
 }
 
 body{
