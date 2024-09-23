@@ -88,11 +88,16 @@ body{
 
 #firstline {
   display: flex;
+  border: 6px solid black;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+  text-align: center;
 }
 
 #firstline-left{
   width: 50%;
   background-color: blueviolet;
+  border-right: 6px solid black;
 }
 
 #firstline-right{
@@ -102,17 +107,23 @@ body{
 
 
 
-#container {
+#tresparts {
   display: flex;
+  border: 6px solid black;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+  text-align: center;
 }
 
 #left{
   width: 33.33%;
   background-color: rgb(38, 255, 0);
+  border-right: 6px solid black;
 }
 #center{
   width: 33.33%;
   background-color: rgb(54, 13, 158);
+  border-right: 6px solid black;
 }
 #right{
   width: 33.33%;
@@ -120,8 +131,9 @@ body{
 }
 
 footer{
-  border-top: 3px solid black;
-  margin-top: 28%;
+  border-top: 6px solid black;
+  margin-top: 25%;
+  font-size: 30px;
 }
 
 
