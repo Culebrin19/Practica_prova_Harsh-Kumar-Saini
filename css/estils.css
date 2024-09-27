@@ -55,7 +55,7 @@ li{
   text-align: center;
 }
 
-img{
+#foto{
   width: 400px;
   height: 400px;
   padding-top: 10rem;
@@ -69,6 +69,11 @@ table.idiomes{
 
 .idiomes th,td{
   border: 3px solid black;
+}
+
+.idiomes tr:hover{
+  background-color: black;
+  color: white;
 }
 
 .dades{
