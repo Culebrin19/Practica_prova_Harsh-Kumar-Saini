@@ -58,9 +58,27 @@ menu{
 
 
 
+.container{
+  margin-left: 40%;
+  margin-top: -35%;
+}
+
 .dades{
- margin-left: 50%;
- margin-top: -35%;
+background-color: cornflowerblue ;
+}
+.estudis{
+  background-color: coral;
+}
+.experiencia{
+  background-color: darksalmon;
+}
+.experiencia a{
+  color: blue;
+  text-decoration: none;
+}
+.experiencia a:hover{
+  color:cyan;
+  text-decoration: none;
 }
 
 #udl{
