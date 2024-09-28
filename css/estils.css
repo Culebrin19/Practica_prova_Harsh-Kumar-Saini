@@ -93,6 +93,9 @@ background-color: cornflowerblue ;
 .alerta{
   color: red;
 }
+.gm{
+  /* display: flex; */
+}
 
 #udl{
   width: 300px;
