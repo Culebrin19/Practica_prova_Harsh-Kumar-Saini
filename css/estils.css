@@ -32,50 +32,31 @@ menu{
     padding: 14px;
 }
 
-ol{
-  width: 10%;
-}
-
-/* li{
-  border: 3px solid black;
-  margin-top: 5px;
-  margin-bottom: 3px;
-  text-align: center;
-} */
-
-.sobre li:hover{
-  background-color: black;
-  color: white;
-}
-
-/*body{
-  background-color: bisque;
-}*/
 .text{
   text-align: center;
 }
+
+
 
 #foto{
   width: 400px;
   height: 400px;
   padding-top: 10rem;
-  /* border: 3px solid black; */
+  margin-top: -3rem;
+  margin-bottom:3rem;
 }
 
-table.idiomes{
-  border: 3px solid black;
-  margin-left: 50%;
-  margin-top: 5rem;
+.img{
+ display: flex;
+ border: 3px solid black;
+ width: 30%;
+ margin-left: 3rem;
+ justify-content: center;
+ background-color: black;
+ margin-top: 3rem;
 }
 
-.idiomes th,td{
-  border: 3px solid black;
-}
 
-.idiomes tr:hover{
-  background-color: black;
-  color: white;
-}
 
 .dades{
  margin-left: 50%;
