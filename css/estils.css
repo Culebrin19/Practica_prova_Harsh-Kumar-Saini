@@ -36,8 +36,18 @@ menu{
   text-align: center;
 }
 
+body{
+  background-color: bisque;
+}
+
+footer{
+  border-top: 6px solid black;
+  margin-top: 24%;
+  font-size: 30px;
+}
 
 
+/* curriculum */
 #foto{
   width: 400px;
   height: 400px;
@@ -55,8 +65,6 @@ menu{
  background-color: black;
  margin-top: 3rem;
 }
-
-
 
 .container{
   margin-left: 40%;
@@ -87,14 +95,14 @@ background-color: cornflowerblue ;
   color:cyan;
   text-decoration: none;
 }
+
+
+/* Experiencia */
 .titol{
   text-align: center;
 }
 .alerta{
   color: red;
-}
-.gm{
-  /* display: flex; */
 }
 
 #udl{
@@ -103,15 +111,11 @@ background-color: cornflowerblue ;
   margin-top: -10rem;
 }
 
-body{
-  background-color: bisque;
-}
 
+/* FlexBox */
 #firstline{
   border: 3px red solid;
 }
-
-
 
 #firstline {
   display: flex;
@@ -131,8 +135,6 @@ body{
   width: 50%;
   background-color: pink;
 }
-
-
 
 #tresparts {
   display: flex;
@@ -157,11 +159,6 @@ body{
   background-color: orange;
 }
 
-footer{
-  border-top: 6px solid black;
-  margin-top: 24%;
-  font-size: 30px;
-}
 
 
 
