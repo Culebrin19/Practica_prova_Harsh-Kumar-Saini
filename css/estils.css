@@ -66,11 +66,15 @@ menu{
 .dades{
 background-color: cornflowerblue ;
 }
-.estudis{
+.estudis_idiomes{
   background-color: coral;
+  display: flex;
+}
+.estudis{
+  margin-left: 4rem;
 }
 .idiomes{
-  background-color:darkgray;
+  margin-left: 20rem;
 }
 .experiencia{
   background-color: darksalmon;
