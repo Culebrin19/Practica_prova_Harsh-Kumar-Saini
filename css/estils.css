@@ -20,12 +20,6 @@ menu{
     padding-bottom: 1rem;
 }
 
-.menu li.moure {
-  float: left;
-  border: 2px red solid;
-
-}
-
 .menu a {
     text-decoration: none;
     color: black;
@@ -51,6 +45,18 @@ footer{
   font-size: 30px;
 }
 
+@media only screen and (max-width: 600px) {
+  body {background: red;
+  }
+  .menu {display: flex;
+        flex-direction: column;
+  }
+  .menu li {float: none; 
+  }
+  .footer{
+    padding-top: 30rem;
+  }
+}
 
 
 
