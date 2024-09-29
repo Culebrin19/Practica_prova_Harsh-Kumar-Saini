@@ -48,8 +48,9 @@ footer{
 }
 
 
+
 /* curriculum */
-#foto{
+/* #foto{
   width: 400px;
   height: 400px;
   padding-top: 10rem;
@@ -95,11 +96,12 @@ background-color: cornflowerblue ;
 .experiencia a:hover{
   color:cyan;
   text-decoration: none;
-}
+} */
+
 
 
 /* Experiencia */
-.titol{
+/* .titol{
   text-align: center;
 }
 .alerta{
@@ -137,11 +139,12 @@ background-color: cornflowerblue ;
   margin-right: 2rem;
   background-color: coral;
   text-align: center;
-}
+} */
+
 
 
 /* FlexBox */
-#firstline{
+/* #firstline{
   border: 3px red solid;
 }
 
@@ -185,7 +188,7 @@ background-color: cornflowerblue ;
 #right{
   width: 33.33%;
   background-color: orange;
-}
+} */
 
 
 

@@ -1,0 +1,39 @@
+.titol{
+    text-align: center;
+  }
+  .alerta{
+    color: red;
+  }
+  
+  #udl{
+    width: 300px;
+    height: 200px;
+    margin-top: -10rem;
+  }
+  
+  .gm{
+    width: 50%;
+    background-color:darkseagreen;
+    border-right: 6px solid black;
+  }
+  
+  .gs{
+    width: 50%;
+    background-color:deepskyblue;
+  }
+  
+  .containerPractiques {
+    display: flex;
+    border: 6px solid black;
+    text-align: center;
+    margin-left: 2rem;
+    margin-right: 2rem;
+  }
+  
+  .laboral{
+    border: 6px solid black;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    background-color: coral;
+    text-align: center;
+  }

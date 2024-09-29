@@ -1,0 +1,48 @@
+#foto{
+    width: 400px;
+    height: 400px;
+    padding-top: 10rem;
+    margin-top: -3rem;
+    margin-bottom:3rem;
+  }
+  
+  .img{
+   display: flex;
+   border: 3px solid black;
+   width: 30%;
+   margin-left: 3rem;
+   justify-content: center;
+   background-color: black;
+   margin-top: 3rem;
+  }
+  
+  .container{
+    margin-left: 40%;
+    margin-top: -35%;
+  }
+  
+  .dades{
+  background-color: cornflowerblue ;
+  }
+  .estudis_idiomes{
+    background-color: coral;
+    display: flex;
+  }
+  .estudis{
+    margin-left: 4rem;
+  }
+  .idiomes{
+    margin-left: 20rem;
+  }
+  .experiencia{
+    background-color: darksalmon;
+  }
+  .experiencia a{
+    color: blue;
+    text-decoration: none;
+  }
+  .experiencia a:hover{
+    color:cyan;
+    text-decoration: none;
+  }
+  
