@@ -32,6 +32,10 @@ menu{
     padding: 14px;
 }
 
+.menu li:hover{
+  background-color: white;
+}
+
 .text{
   text-align: center;
   height: 200px;
@@ -49,7 +53,10 @@ footer{
 
 
 
+
+
 /* curriculum */
+
 /* #foto{
   width: 400px;
   height: 400px;
@@ -100,7 +107,10 @@ background-color: cornflowerblue ;
 
 
 
+
+
 /* Experiencia */
+
 /* .titol{
   text-align: center;
 }
@@ -143,7 +153,9 @@ background-color: cornflowerblue ;
 
 
 
+
 /* FlexBox */
+
 /* #firstline{
   border: 3px red solid;
 }
