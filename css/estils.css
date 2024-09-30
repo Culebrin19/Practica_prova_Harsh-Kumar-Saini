@@ -54,7 +54,8 @@ footer{
   .menu li {float: none; 
   }
   .footer{
-    padding-top: 30rem;
+    /* padding-top: 30rem; */
+    margin-bottom: 0;
   }
 }
 
