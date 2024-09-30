@@ -60,3 +60,22 @@
       color: white;
     }
   }
+
+  @media only screen and (max-width: 450px) {
+    img {
+      visibility: hidden;
+    }
+    .containerPractiques{
+      height: 750px;
+    }
+    .laboral{
+      height: 400px;
+    }
+    .gm{
+      background-color: darkgrey;
+    }
+    .gs{
+      background-color: darkslategrey;
+      color: white;
+    }
+  }

@@ -98,4 +98,23 @@
       background-color: cornflowerblue;
     }
   }
+
+  @media only screen and (max-width: 450px) {
+    .dades{
+      margin-left: -10rem;
+      width: 20rem;
+    }
+    .estudis_idiomes{
+      margin-left: -10rem;
+      width: 24rem;
+      text-align: center;
+    }
+    .idiomes{
+      margin-left: +4rem;
+    }
+    .experiencia{
+      margin-left: -10rem;
+      width: 20rem;
+    }
+  }
   
