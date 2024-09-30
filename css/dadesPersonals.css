@@ -53,5 +53,47 @@
       margin-top: -30rem;
       width: 200px;
     }
+    body {background: black;
+          color: white;}
+    .estudis_idiomes{
+      background: black;
+    }
+    .experiencia{
+      background-color: black;
+      padding: 2rem;
+      margin-top: 3rem;
+    }
+    .dades{
+      background-color: black;
+      padding: 2rem;
+      margin-bottom: 3rem;
+      }
+  }
+
+  @media only screen and (min-width: 768px) {
+    #foto{
+      height: 300px;
+      width: 290px;
+    }
+    .img{
+    background-color: transparent;
+    border: 0px;
+    }
+    .dades{
+      width: 28rem;
+      background-color: blue;
+      color: white;
+    }
+    .estudis_idiomes{
+      width: 28em;
+      display: flex;
+      flex-direction: column;
+      background-color: cadetblue;
+    }
+    .experiencia{
+      width: 28rem;
+      text-align: center;
+      background-color: cornflowerblue;
+    }
   }
   
