@@ -23,10 +23,12 @@
   
   .dades{
   background-color: cornflowerblue ;
+  width: 60%;
   }
   .estudis_idiomes{
     background-color: coral;
     display: flex;
+    width: 80%;
   }
   .estudis{
     margin-left: 4rem;
