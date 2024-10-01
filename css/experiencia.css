@@ -16,6 +16,14 @@
     background-color:darkseagreen;
     border-right: 6px solid black;
   }
+  .gm img{
+    height:300px;
+    width:450px;
+  }
+  .gs img{
+    height:300px;
+    width:450px;
+  }
   
   .gs{
     width: 50%;
