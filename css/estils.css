@@ -27,7 +27,11 @@ menu{
 }
 
 .menu li:hover{
-  background-color: white;
+  background-color: black;
+}
+
+.menu a:hover{
+  color:deepskyblue ;
 }
 
 .text{
