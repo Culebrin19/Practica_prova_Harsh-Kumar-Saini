@@ -50,19 +50,25 @@
     width:450px;
   }
 
-  @media only screen and (max-width: 600px) {
-   img{visibility: hidden;}
-  }
-
-  @media only screen and (max-width: 800px) {
-    img {
-      visibility: hidden;
+  @media only screen and (max-width: 1080px) {
+    
+    .gm img{
+      height:200px;
+      width:300px;
+    }
+    .gs img{
+      height:200px;
+      width:300px;
+    }
+    .laboral img{
+      height:200px;
+      width:300px;
     }
     .containerPractiques{
-      height: 400px;
+      height: 500px;
     }
     .laboral{
-      height: 200px;
+      height: 400px;
     }
     .gm{
       background-color: darkgrey;
@@ -70,6 +76,9 @@
     .gs{
       background-color: darkslategrey;
       color: white;
+    }
+    .footer{
+      bottom: auto;
     }
   }
 
