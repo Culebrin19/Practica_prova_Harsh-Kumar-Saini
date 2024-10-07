@@ -1,3 +1,7 @@
+/* html, body{
+  min-height: 100vh;
+} */
+
 menu{
   display:flex;
   justify-content: center;
@@ -41,12 +45,25 @@ menu{
 
 body{
   background-color: bisque;
+  position: relative;
 }
+
+/* .container{
+  min-height: calc(100vh - 80px);
+  overflow-y:auto ;
+} */
 
 footer{
   border-top: 6px solid black;
   margin-top: 24%;
+  /* position: relative;
+  bottom: 0; */
   font-size: 30px;
+  height: 80px;
+}
+
+#footer{
+   margin-top: 25%;
 }
 
 @media only screen and (max-width: 600px) {
