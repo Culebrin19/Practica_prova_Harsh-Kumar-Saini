@@ -74,16 +74,23 @@ footer{
   margin-top: 7%;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 412px) {
   body {background: red;
   }
   .menu {display: flex;
         flex-direction: column;
   }
   .menu li {float: none; 
+    margin-right: 1.5rem;
   }
-  .footer{
-    /* padding-top: 30rem; */
-    margin-bottom: 0;
+  
+  #index{
+    margin-top: 20%;
+  }
+}
+
+@media only screen and (max-width: 1080px) {
+  body{
+    background-color: bisque;
   }
 }
