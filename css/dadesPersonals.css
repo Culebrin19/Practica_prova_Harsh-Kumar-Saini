@@ -86,8 +86,6 @@
     }
     .estudis_idiomes{
       width: 30rem;
-      display: flex;
-      flex-direction: column;
       color: white;
       background-color: blue;
       text-align: center;
@@ -131,6 +129,12 @@
     }
     #dadesPersonals{
       color: black;
+    }
+    .img{
+      visibility: none;
+    }
+    #foto{
+      visibility: none;
     }
   }
   
