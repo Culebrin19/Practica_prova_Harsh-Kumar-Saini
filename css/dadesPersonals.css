@@ -23,21 +23,28 @@
   
   .dades{
   background-color: cornflowerblue ;
-  width: 60%;
+  width: 25rem;
+  padding: 1rem;
+  margin-bottom: 1rem;
   }
   .estudis_idiomes{
     background-color: coral;
     display: flex;
-    width: 80%;
+    width: 46rem;
+    height: 15rem;
+    margin-bottom: 1rem;
   }
   .estudis{
     margin-left: 4rem;
   }
   .idiomes{
     margin-left: 20rem;
+    margin-bottom: 4rem;
   }
   .experiencia{
     background-color: darksalmon;
+    padding: 1rem;
+    width: 44rem
   }
   .experiencia a{
     color: blue;
@@ -50,30 +57,6 @@
 
   #dadesPersonals{
     margin-top: 10%;
-  }
-
-
-  @media only screen and (max-width: 600px) {
-    .img{visibility: hidden;}
-    .container{
-      margin-top: -30rem;
-      width: 200px;
-    }
-    body {background: black;
-          color: white;}
-    .estudis_idiomes{
-      background: black;
-    }
-    .experiencia{
-      background-color: black;
-      padding: 2rem;
-      margin-top: 3rem;
-    }
-    .dades{
-      background-color: black;
-      padding: 2rem;
-      margin-bottom: 3rem;
-      }
   }
 
   @media only screen and (max-width: 1080px) {
