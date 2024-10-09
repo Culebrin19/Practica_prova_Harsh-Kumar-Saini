@@ -106,23 +106,23 @@
   @media only screen and (max-width: 412px) {
     .dades{
       margin-left: -10rem;
-      width: 22rem;
+      width: 23rem;
     }
     .estudis_idiomes{
       margin-left: -10rem;
-      width: 24rem;
+      width: 25rem;
       text-align: left;
       text-align: center;
     }
     .estudis{
-      margin-left: -0.1rem;
+      margin-left: 0.4rem;
     }
     .idiomes{
       margin-left: +6rem;
     }
     .experiencia{
       margin-left: -10rem;
-      width: 22rem;
+      width: 23rem;
     }
 
     body{
