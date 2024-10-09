@@ -106,14 +106,12 @@
   @media only screen and (max-width: 412px) {
     .dades{
       margin-left: -10rem;
-      width: 22rem;
-      margin-top: -35rem;
+      width: 20rem;
     }
     .estudis_idiomes{
       margin-left: -10rem;
       width: 24rem;
       text-align: center;
-      margin-top: -2rem;
     }
     .idiomes{
       margin-left: +4rem;
@@ -121,7 +119,6 @@
     .experiencia{
       margin-left: -10rem;
       width: 22rem;
-      margin-top: -2rem;
     }
 
     body{
@@ -131,10 +128,7 @@
       color: black;
     }
     .img{
-      visibility: none;
-    }
-    #foto{
-      visibility: none;
+      visibility: hidden;
     }
   }
   
