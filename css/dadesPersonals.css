@@ -39,7 +39,7 @@
     margin-left: 4rem;
   }
   .idiomes{
-    margin-left: 20rem;
+    margin-left: 15rem;
     margin-bottom: 4rem;
   }
   .experiencia{
@@ -111,10 +111,14 @@
     .estudis_idiomes{
       margin-left: -10rem;
       width: 24rem;
+      text-align: left;
       text-align: center;
     }
+    .estudis{
+      margin-left: -0.1rem;
+    }
     .idiomes{
-      margin-left: +4rem;
+      margin-left: +6rem;
     }
     .experiencia{
       margin-left: -10rem;
